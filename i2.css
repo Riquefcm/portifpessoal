@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(203, 255, 238);
+}
+
+.a{
+    text-align: center;
+    font-size: 200%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.table{
+    font-size: 120%;
+}
+
+img{
+    border: solid 5px;
+    border-color:  rgb(140, 69, 207);
+}
+
+.abaixo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 160%;
+    text-decoration: dashed;
+    text-decoration: underline;
+}

@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(203, 255, 238);
+}
+
+.cmc{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 200%;
+}
+
+img{
+    border: solid 5px;
+    border-color:  rgb(140, 69, 207);
+}
+
+.gym{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 200%;
+}
+
+.form{
+    text-align: center;
+    text-decoration: none;
+}
+
+.button{
+    text-align: center;
+}
+
+.aa{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+}
